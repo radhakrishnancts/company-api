@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: company-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Radhakrishnan
+Implementation-Vendor-Id: com.spring.estock
+Spring-Boot-Version: 2.1.1.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.spring.company.CompanyApp
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://maven.apache.org
+

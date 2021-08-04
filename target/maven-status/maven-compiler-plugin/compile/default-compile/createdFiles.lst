@@ -1,0 +1,16 @@
+com\spring\company\model\AuthRequest.class
+com\spring\company\config\KafkaConfiguration.class
+com\spring\company\filter\JwtFilter.class
+com\spring\company\listener\KafkaConsumer.class
+com\spring\company\response\Company.class
+com\spring\company\repository\UserRepository.class
+com\spring\company\util\JwtUtil.class
+com\spring\company\config\SecurityConfig.class
+com\spring\company\service\CustomUserDetailsService.class
+com\spring\stock\service\Stocks.class
+com\spring\company\model\User.class
+com\spring\company\repository\CompanyRepository.class
+com\spring\company\CompanyApp.class
+com\spring\company\model\Company.class
+com\spring\company\controller\CompanyController.class
+com\spring\company\SwaggerConfig.class
